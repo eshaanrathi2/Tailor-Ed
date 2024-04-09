@@ -1,0 +1,8 @@
+jq
+langchain
+langchain-community
+langchainhub
+gpt4all
+chromadb
+
+llama-cpp-python
