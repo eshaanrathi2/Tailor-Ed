@@ -4,5 +4,7 @@ langchain-community
 langchainhub
 gpt4all
 chromadb
+openai
 
 llama-cpp-python
+numpy
