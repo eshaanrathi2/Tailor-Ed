@@ -442,5 +442,149 @@
     },
     "Kryliouk-MATH-1B-01-S19": {
         "attendance_mandatory": "yes"
+    },
+    "PHOT 121-02 Williams, Yvonne": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL100W_3_JOHNSON_ALLISON_S19": {
+        "attendance_mandatory": "no"
+    },
+    "PHOT 123-01 Fung, Jonathan": {
+        "attendance_mandatory": "yes"
+    },
+    "ARTH 070A-01 Pafford, Isabelle": {
+        "attendance_mandatory": "no"
+    },
+    "ART 061-01 Feasel, Donald": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1B_06_Kirby_Sheree_F17": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1AS_48_Wood_Emma_S18": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL2_05_James_Robert_F18": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL1AF_10_Ball_Shama_F17": {
+        "attendance_mandatory": "yes"
+    },
+    "PHOT 113-01 Herrera, Daniel": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL106_1_WEST_SARA_S19": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL1B_19_Damm_John_F17": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1A_11_SLOAN_SIAN_S19": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL2_16_Babaci-Wilhite_Zehlia_F18": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1AS_30_SMITH_AMANDA_S19": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL117A_02_Kirk_Faith_F18": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL2_05_08_HENDELDELAO_SP20_V2": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1A_71_Babaci-Wilhite_Zehlia_F18": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1AF_32_Smith_Amanda_F17%20": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL1A_25_Alfaro_Megan_F17": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1A_45_Hansen_Eli_F18": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL117A_01_KIRK_FAITH_F19": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL71_8_MORGAN_TYSON_S19": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1AS_59_HendelDeLaO_Daniel_S18": {
+        "attendance_mandatory": "no"
+    },
+    "ART 195-03 Holberton, Rhonda": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL2_08_Ahmad_Aamina_S18": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL2_04_OSULLIVAN_PETER_F19": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL21_01_SAYLOR_COLTON_SP20": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL144_02_Eastwood_Adrienne_F17": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL2_16_PRASAD_SARAH_SP20": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1A_34_JALAL_MOSTAFA_F19": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL101_02_Harris_Katherine_S18": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL2_12_OHARE_KRISTIAN_S19": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL1A_60_ADRY_TALIA_F19": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1A_21_Hager_Michelle_F17": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL2_25_LANDAU_LINDA_S19": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL100WB_09_Lo_Laimin_F17": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL123A_01_Maio_Samuel_F18": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL1A_03_JALAL_MOSTAFA_F19": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL1AF_45_Petty_Alesya_F18": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1A-14_Mujal_Carlos_F17": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL1A_32_Lee_Olivia_F18": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1A_16_ADRY_TALIA_S19": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL112A_01_Vora_Roohi_S18": {
+        "attendance_mandatory": "yes"
+    },
+    "ENGL257_1_SKINNELL_RYAN_S19": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1AF_16_HendelDeLaO_Daniel_F17": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL2_10_Prasad_Sarah_S18": {
+        "attendance_mandatory": "no"
+    },
+    "ENGL1A_17_LEE_OLIVIA_S19": {
+        "attendance_mandatory": "yes"
     }
 }
